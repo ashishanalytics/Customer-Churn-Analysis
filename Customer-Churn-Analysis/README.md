@@ -68,9 +68,13 @@ This helped identify customers who need immediate retention efforts.
 - Proactively engage customers with low product usage.
 - Strengthen customer support for users raising multiple tickets.
 - Encourage long-term subscription plans to reduce churn.
+- Offer 10% retention discount to high-value churn-risk customers
+- Trigger customer success calls for Month-1 churners
+- Revise onboarding for Segment X
 
 ---
 
 ## Outcome
 This analysis provides a data-driven approach to reduce customer churn
 by approximately 15–20% and protect recurring monthly revenue.
+
